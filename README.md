@@ -1,6 +1,7 @@
 # Salut !
 
 Actuellement en 3ème année de **Bachelor Développement IA & Data Engineering**, je combine ma passion pour le sport avec l'univers de la donnée. Mon objectif est de devenir **Data Engineer dans le monde du Football**. ⚽
+
 Futur Ingénieur en science des données spécialisé en infrastructure data
 
 
@@ -13,7 +14,7 @@ Futur Ingénieur en science des données spécialisé en infrastructure data
 - 🥅 Passionné par le sport (Football, F1, Basket, Hockey-sur-Gazon) et la culture (Mangas, Musique).
 - 💻 Explorations passées grâce aux études : Développement Web & Jeux Vidéo.
 
-**Portfolio :** [Evan Portfolio's](https://qevan91.github.io/portfolio/)
+**Portfolio :** [Evan Portfolio](https://qevan91.github.io/portfolio/)
 
 ---
 
