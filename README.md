@@ -14,7 +14,7 @@ Futur Ingénieur en science des données spécialisé en infrastructure data
 - 🥅 Passionné par le sport (Football, F1, Basket, Hockey-sur-Gazon) et la culture (Mangas, Musique).
 - 💻 Explorations passées grâce aux études : Développement Web & Jeux Vidéo.
 
-**Portfolio :** [Evan Portfolio](https://qevan91.github.io/portfolio/)
+**🔗 Portfolio :** [Evan Portfolio](https://qevan91.github.io/portfolio/)
 
 ---
 
@@ -31,9 +31,12 @@ Futur Ingénieur en science des données spécialisé en infrastructure data
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=qevan91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qevan91&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qevan91&theme=tokyonight&column=7&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qevan91&layout=compact&theme=tokyonight" />
 </p>
 
 ---
