@@ -35,10 +35,6 @@ Futur Ingénieur en science des données spécialisé en infrastructure data
   <img src="https://github-profile-trophy.vercel.app/?username=qevan91&theme=tokyonight&column=7&no-bg=true" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qevan91&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 📫 Me contacter
