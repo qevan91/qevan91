@@ -3,7 +3,7 @@
 Futur Ingénieur en science des données spécialisé en infrastructure data
 Passionnée par le foot, les jeux vidéos, le sport et les manga
 
-**🔗 Portfolio :** [Evan Portfolio](https://qevan91.github.io/portfolio/)
+**🔗 Portfolio :** [Portfolio](https://qevan91.github.io/portfolio/)
 
 ---
 
